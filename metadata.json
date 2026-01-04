@@ -1,0 +1,7 @@
+{
+  "name": "Odia-AI Translator",
+  "description": "An advanced AI-powered translator for Hindi and English to Odia, featuring high-fidelity translations, natural language processing, and a modern, responsive interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
